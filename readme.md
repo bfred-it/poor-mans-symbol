@@ -2,9 +2,9 @@
 
 > Poor man's Symbol implementation, not compliant. Uses `window.Symbol` if present
 
-[![gzipped size](https://badges.herokuapp.com/size/github/bfred-it/poor-mans-symbol/master/dist/poor-mans-symbol.browser.js?gzip=true&label=gzipped%20size)](#readme) [![Travis build status](https://api.travis-ci.org/bfred-it/poor-mans-symbol.svg?branch=master)](https://travis-ci.org/bfred-it/poor-mans-symbol) [![gzipped size](https://img.shields.io/npm/v/poor-mans-symbol.svg)](https://www.npmjs.com/package/poor-mans-symbol) 
+[![gzipped size](https://badges.herokuapp.com/size/github/fregante/poor-mans-symbol/master/dist/poor-mans-symbol.browser.js?gzip=true&label=gzipped%20size)](#readme) [![Travis build status](https://api.travis-ci.org/fregante/poor-mans-symbol.svg?branch=master)](https://travis-ci.org/fregante/poor-mans-symbol) [![gzipped size](https://img.shields.io/npm/v/poor-mans-symbol.svg)](https://www.npmjs.com/package/poor-mans-symbol)
 
-This is not a polyfill, it's only good to be used to generate pseudo-[private property keys.](http://www.2ality.com/2014/12/es6-symbols.html#symbols_as_property_keys)
+This is not a polyfill, it's only good to be used to generate pseudo-[private property keys.](https://www.2ality.com/2014/12/es6-symbols.html#symbols_as_property_keys)
 
 ## Usage with npm and ES2015
 
@@ -28,4 +28,4 @@ el[ಠ] = 'Some private stuff';
 
 ## License
 
-MIT © [Federico Brigante](http://twitter.com/bfred_it)
+MIT © [Federico Brigante](https://bfred.it)
